@@ -12,7 +12,7 @@ const pdev = {
   code: [Java, JavaScript, Typescript, HTML, CSS, Ruby, Python, SQL, Rust],
   tools: [Paper, Spigot / BungeeCore, Velocity, React, Redux, Docker],
   organizations: {
-      plugin-developer: "DevRoom",
+      plugin_developer: "DevRoom",
       developer: "Coming Soon"
   },
 }     
