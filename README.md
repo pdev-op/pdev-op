@@ -1,7 +1,6 @@
 ### Hi there 👋
 <img align='right' src='https://www.spigotmc.org/data/avatars/l/1379/1379584.jpg?1643825689' width='200'/>
-I am a Full Stack Software Engineer working on projects ranging from game development & plugins all the way to mobile app development. I have a knack for writing Spigot/Velocity plugins and love a good challenge!
-
+<p>I am a Full Stack Software Engineer working on projects ranging from game development & plugins all the way to mobile app development. I have a knack for writing Spigot/Velocity plugins and love a good challenge!</p>
 
 - 📚 Studying Computer Science & Entrepreneurship at University.
 - 🔭 Currently working on commissions (if you're looking for a dev for your project, shoot me a message!)
