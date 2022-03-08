@@ -9,8 +9,8 @@
 ### 📝 A bit more about me...
 ```javascript
 const pdev = {
-  code: [Java, JavaScript, Typescript, HTML, CSS, Ruby, Python, SQL, Rust]
-  tools: [Paper, Spigot / BungeeCore, Velocity, React, Redux, Docker]
+  code: [Java, JavaScript, Typescript, HTML, CSS, Ruby, Python, SQL, Rust],
+  tools: [Paper, Spigot / BungeeCore, Velocity, React, Redux, Docker],
   organizations: {
       plugin-developer: "DevRoom",
       developer: "Coming Soon"
