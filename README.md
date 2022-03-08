@@ -1,16 +1,25 @@
 ### Hi there 👋
+<img align='right' src='https://www.spigotmc.org/data/avatars/l/1379/1379584.jpg?1643825689' width='200'/>
+I am a Full Stack Software Engineer working on projects ranging from game development & plugins all the way to mobile app development. I have a knack for writing Spigot/Velocity plugins and love a good challenge!
 
-<!--
-**pdev-op/pdev-op** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📚 Studying Computer Science & Entrepreneurship at University.
+- 🔭 Currently working on commissions (if you're looking for a dev for your project, shoot me a message!)
+- 💬 Brainstorming new ideas for survival based servers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 A bit more about me...
+```javascript
+const pdev = {
+  code: [Java, JavaScript, Typescript, HTML, CSS, Ruby, Python, SQL, Rust]
+  tools: [Paper, Spigot / BungeeCore, Velocity, React, Redux, Docker]
+  organizations: {
+      plugin-developer: "DevRoom",
+      developer: "Coming Soon"
+  },
+}     
+```
+
+### 📫 Reach me here:
+- [Support Discord](https://discord.gg/G4ve2yWhC6)
+- [Spigot Page](https://www.spigotmc.org/members/pdev.1379584/)
+- [Email](mailto:pjv99dev@gmail.com)
