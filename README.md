@@ -3,7 +3,7 @@
 <p>I am a Full Stack Software Engineer working on projects ranging from game development & plugins all the way to mobile app development. I have a knack for writing Spigot/Velocity plugins and love a good challenge!</p>
 
 - 📚 Studying Computer Science & Entrepreneurship at University.
-- 🔭 Currently working on commissions (if you're looking for a dev for your project, shoot me a message!)
+- 🔭 Currently working on commissions @ DevRoom (if you're looking for a dev for your project, shoot me a message!)
 - 💬 Brainstorming new ideas for survival based servers.
 
 ### 📝 A bit more about me...
